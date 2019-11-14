@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Cart Item"
+        android:id="@+id/billOut"
+        android:icon="@drawable/bill_out"
+        app:showAsAction="ifRoom"
+        ></item>
+    <item
+        android:title="Product Upload"
+        android:id="@+id/product_upload"
+        android:icon="@drawable/my_upload"
+        app:showAsAction="ifRoom"
+        ></item>
+</menu>
